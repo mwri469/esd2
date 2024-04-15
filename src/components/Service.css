@@ -1,0 +1,28 @@
+.service-container {
+    display: flex;
+    align-items: flex-start;
+    background-color: #00467F;
+}
+
+.service-image {
+    padding: 1rem;
+    max-width: 50%;
+}
+
+.service-text {
+    padding: 1rem;
+}
+
+.lighter-font {
+    padding: 5px;
+    font-weight: lighter;
+}
+
+h2 {
+    text-align: left;
+    font-weight: 700;
+}
+
+body {
+    background-color: #00467F;
+}
